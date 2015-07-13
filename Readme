@@ -1,3 +1,7 @@
 OpenAniL    ------   Open Animate display library
 
 
+如同openGL一樣   預計這lib也會有self-defined的渲染流水線
+
+流水線:
+model  --->    參考線物件 ---->   投影 ----> 線稿  -----> 上色 ----->  特效 
