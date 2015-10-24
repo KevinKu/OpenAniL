@@ -1,4 +1,7 @@
 OpenAniL    ------   Open Animate display library
+-----  A  library that show 2d-animation image in 3-d world.
+
+
 
 
 如同openGL一樣   預計這lib也會有self-defined的渲染流水線
